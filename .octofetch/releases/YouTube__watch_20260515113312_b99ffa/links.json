@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3806",
+  "folder": "YouTube__watch_20260515113312_b99ffa",
+  "base_name": "doprax_A6DXombobeU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ABplane/Cloud-Downloads-1/releases/tag/co-releases-v1-3806",
+  "files": [
+    {
+      "name": "doprax_A6DXombobeU_1080p.mp4",
+      "url": "https://github.com/ABplane/Cloud-Downloads-1/releases/download/co-releases-v1-3806/doprax_A6DXombobeU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/ABplane/Cloud-Downloads-1/releases/assets/420962290",
+      "id": 420962290,
+      "size": 33611434,
+      "download_count": 0
+    }
+  ]
+}
